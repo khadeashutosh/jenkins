@@ -4,4 +4,4 @@ def add(num):
     sum=sum+num
     num=num-1
     print(sum)
-add(10)
+add(5)
